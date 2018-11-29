@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-28T13:03:38.430Z</updated>
+  <updated>2018-11-29T06:11:17.055Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我是你爸爸</title>
+    <link href="http://yoursite.com/2018/11/29/%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B8%E7%88%B8/"/>
+    <id>http://yoursite.com/2018/11/29/我是你爸爸/</id>
+    <published>2018-11-29T06:07:35.000Z</published>
+    <updated>2018-11-29T06:11:17.055Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="欢迎各位儿子打开爸爸的blog" scheme="http://yoursite.com/tags/%E6%AC%A2%E8%BF%8E%E5%90%84%E4%BD%8D%E5%84%BF%E5%AD%90%E6%89%93%E5%BC%80%E7%88%B8%E7%88%B8%E7%9A%84blog/"/>
+    
+  </entry>
   
   <entry>
     <title>hey</title>
