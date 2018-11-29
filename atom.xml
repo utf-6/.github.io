@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-29T06:11:17.055Z</updated>
+  <updated>2018-11-29T06:13:18.278Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,17 @@
     <link href="http://yoursite.com/2018/11/29/%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B8%E7%88%B8/"/>
     <id>http://yoursite.com/2018/11/29/我是你爸爸/</id>
     <published>2018-11-29T06:07:35.000Z</published>
-    <updated>2018-11-29T06:11:17.055Z</updated>
+    <updated>2018-11-29T06:13:18.278Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎各位儿子打开爸爸的blog<br>我是你们亲爱的父亲</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;欢迎各位儿子打开爸爸的blog&lt;br&gt;我是你们亲爱的父亲&lt;/p&gt;
+
+      
     
     </summary>
     
